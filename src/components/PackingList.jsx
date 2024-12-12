@@ -1,12 +1,12 @@
 import React from "react";
 import Item from "./Item";
 
-const PackingList = ({ initialItems }) => {
+const PackingList = ({ items }) => {
   return (
     <div className="list">
       <ul>
-        {initialItems.map((item) => (
-          <Item item={item} />
+        {items.map((item) => (
+          <Item item={item} key={item.id} />
         ))}
       </ul>
     </div>
