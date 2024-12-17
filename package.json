@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Karthik-dev-js.github.io/travel-packing-list",
+  "homepage": "https://Karthik-dev-js/github.io/travel-packing-list",
   "name": "travel-packing-list",
   "version": "0.1.2",
   "private": true,
@@ -11,7 +11,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d dist",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
