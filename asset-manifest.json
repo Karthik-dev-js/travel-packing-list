@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/travel-packing-list/static/css/main.708779c1.css",
+    "main.js": "/travel-packing-list/static/js/main.52926143.js",
+    "index.html": "/travel-packing-list/index.html",
+    "main.708779c1.css.map": "/travel-packing-list/static/css/main.708779c1.css.map",
+    "main.52926143.js.map": "/travel-packing-list/static/js/main.52926143.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.708779c1.css",
+    "static/js/main.52926143.js"
+  ]
+}
